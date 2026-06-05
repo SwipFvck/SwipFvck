@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/SwipFvck/SwipFvck/blob/main/IMG-20260605-WA0034.jpg">
+</p>
+
 <h1 align="center">Swiper Fvck</h1>
 
 <p align="center">
