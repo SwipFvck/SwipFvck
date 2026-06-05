@@ -24,8 +24,6 @@
 
 - 🤖 WhatsApp Bot Developer
 - 📡 REST API Developer
-- 🌐 Fullstack Web Developer
-- 🔍 Reverse Engineering
 - ⚡ Node.js Enthusiast
 
 ---
@@ -42,18 +40,6 @@ HTML
 CSS
 Git
 ```
-
----
-
-## 📊 Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SwipFvck&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwipFvck&layout=compact&theme=tokyonight">
-</p>
 
 ---
 
