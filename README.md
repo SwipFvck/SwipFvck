@@ -35,10 +35,10 @@ JavaScript
 Node.js
 Express.js
 Baileys
-Telegram Bot API
+Bot Telegram
+Bot Whatsapp
 HTML
 CSS
-Git
 ```
 
 ---
