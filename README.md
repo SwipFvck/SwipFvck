@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SwipFvck/SwipFvck/blob/main/Proyek Baru 76 %5B3EE50FF%5D.png">
+  <img src="https://github.com/SwipFvck/SwipFvck/blob/main/IMG-20260608-WA0019.jpg">
 </p>
 
 <h1 align="center">Swiper Fvck</h1>
